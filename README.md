@@ -9,3 +9,5 @@ Essential question - Case Study: How Does a Bike-Share Navigate Speedy Success?
 
 For any tips, feedback or ideas to further this. Please email jordan.creenaune@gmail.com
 
+ - Please note: Markdown html file is not uploading to github, please refer to the pdf for the final product as a saved version of the HTML. 
+
